@@ -38,7 +38,7 @@ alunoObjeto.nome = "Lucca"
 console.log(alunoObjeto)
 
 const livroObjeto = new Object();
-livroObjeto.titulo = "Matteo"
+livroObjeto.titulo = "Casos de Família"
 livroObjeto.autor = "Ilana Casoy"
 livroObjeto.ano = "2016"
 console.log (livroObjeto)
